@@ -56,6 +56,7 @@ In the project root directory, create a file named `.env` with the following con
 
 ```env
 SYNAPSE_ACCESS_TOKEN=your_access_token
+PROJECT_ID=project_id
 ```
 
 > ⚠️ Make sure **not to share** this file or commit it to version control (`.gitignore` it).
